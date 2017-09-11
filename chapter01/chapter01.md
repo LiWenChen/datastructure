@@ -8,9 +8,9 @@
 
 ​	2.1 指数
 
-							$X^AX^B = X^{(A + B)}$
+​		>>>>					$X^AX^B = X^{(A + B)}$
 
-							$\frac{X^A}{X^B} = X^{A - B}$
+​							$\frac{X^A}{X^B} = X^{A - B}$
 
 ​							$(X^A)^B = X^{AB}$
 
